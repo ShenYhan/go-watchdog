@@ -1,0 +1,7 @@
+{
+  "ProgramPath": "F:/GolangProjects/dataCenter",
+  "ProgramName": "dataCenter.exe",
+  "Arg":"restart",
+  "Target": "http://192.168.104.139:8199/",
+  "IntervalMS": 2000
+}
